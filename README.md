@@ -8,7 +8,7 @@ This is a simple **HTML and CSS** project that displays a food recipe webpage. I
 - Navigation bar with links to Home, Contact, and About pages.
 
 ## Screenshot
-![Food Recipe Webpage](Food.png)
+![Food Recipe Webpage](Food2.png)
 
 ## Technologies Used
 - **HTML**: Structuring the webpage.
